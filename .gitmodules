@@ -1,0 +1,3 @@
+[submodule "moonshotcode"]
+	path = moonshotcode
+	url = git://github.com/MoonshotNL/moonshotcode.git
